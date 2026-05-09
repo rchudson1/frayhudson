@@ -841,6 +841,11 @@ ul {
         padding: 0 1.25rem;
     }
 
+    /* Nav brand shrinks on small screens */
+    .nav-brand-name {
+        font-size: 0.78rem;
+    }
+
     /* Grids collapse to single column */
     .practice-grid { grid-template-columns: repeat(2, 1fr); }
     .sectors-grid  { grid-template-columns: repeat(2, 1fr); }
