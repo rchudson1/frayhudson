@@ -842,9 +842,9 @@ ul {
         padding: 0 1.25rem;
     }
 
-    /* Nav brand shrinks on small screens */
+    /* Nav brand on small screens */
     .nav-brand-name {
-        font-size: 0.78rem;
+        font-size: 0.88rem;
     }
 
     /* Grids collapse to single column */
